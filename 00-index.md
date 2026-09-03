@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: Projets Web GR450
 permalink: index.html
 ---
 
