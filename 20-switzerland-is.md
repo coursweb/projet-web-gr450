@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Switzerland...
-permalink: application.html
+permalink: traditions-vivantes.html
 ---
 
 # Switzerland is Great : Traditions vivantes suisses
