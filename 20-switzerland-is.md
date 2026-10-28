@@ -62,6 +62,7 @@ Pictogrammes à créer pour chaque élève (cours de Mme C. Buclin):
 - Un pictogramme personnel qui vous représente. Libre, graphique, symbolique (pas un portrait).
 - Un picto pour chacune de vos trois illustrations. Une version simplifiée, schématique, abstraite.
 - Une proposition de picto pour l'une des techniques d'illustration. Travailler en coordination, pour former une série cohérente de trois pictogrammes.
+- Si on a du temps, pourquoi pas créer aussi des pictogrammes de cantons?
 
 ## Infos techniques
 
