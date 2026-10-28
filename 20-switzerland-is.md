@@ -53,6 +53,10 @@ Comporte:
   - Nom de la tradition.
   - Description courte de la tradition.
   - Logo de l'llustration.
+  
+![](img/concept-figma.jpg)
+
+Voir [le schéma explicatif](https://www.figma.com/design/xQJgXdzGKq8asYA5rrhyg4/Wireframe?node-id=0-1&t=hvb8vRTpYr77E7DU-1) dans Figma
 
 Pictogrammes à créer pour chaque élève (cours de Mme C. Buclin):
 - Un pictogramme personnel qui vous représente. Libre, graphique, symbolique (pas un portrait).
