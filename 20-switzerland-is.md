@@ -23,12 +23,13 @@ Outil utilisé: [Framer](https://framer.com/)
 
 ## Tâches pour le jeudi 29 octobre
 
-- Faire le design de la page qui vous a été attribuée - [voir document](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2627_GR450_Teams/Documents%20partages/Graphisme%20Projets%20(WEB)/T%C3%A2ches%2029%20octobre.xlsx?d=w151c58c0a1d64fdf9ef970895aefb0d8&csf=1&web=1&e=sgyaVi).
-- Vous familiariser avec Framer, p.ex. en suivant un tutoriel vidéo.
+- Faire le design de la page qui vous a été attribuée - [voir document](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2627_GR450_Teams/Documents%20partages/Graphisme%20Projets%20(WEB)/T%C3%A2ches%2029%20octobre.xlsx?d=w151c58c0a1d64fdf9ef970895aefb0d8&csf=1&web=1&e=sgyaVi) et votre nom dans la liste ci-dessous.
+- Vous familiariser avec *Framer*, p.ex. en suivant un tutoriel vidéo.
 
 ## Principe des pages
 
-Le site comporte quatre modèles de pages:
+Le site comporte quatre modèles de pages. Pour chaque modèle, quatre élèves vont faire une proposition. 
+Cela nous permettra de choisir, le 5 novembre, un design pour l'ensemble du projet, et une mise en page pour chacune des pages.
 
 - **Page d'accueil.** (Néomie, Angelle, Louane, Lou)  
 Comporte: 
@@ -64,22 +65,28 @@ Pictogrammes à créer pour chaque élève (cours de Mme C. Buclin):
 - Une proposition de picto pour l'une des techniques d'illustration. Travailler en coordination, pour former une série cohérente de trois pictogrammes.
 - Si on a du temps, pourquoi pas créer aussi des pictogrammes de cantons?
 
+Technique pictogrammes: 
+
+- Format vectoriel (sera exporté pour le web en SVG).
+- Doit rester lisible à une taille d'environ 50x50 pixels.
+- Couleurs: pas plus de deux couleurs dominantes.
+
 ## Infos techniques
 
-Pour la réalisation des modèles de page le 29 octobre. 
+Précisions pour la réalisation des modèles de page le 29 octobre. 
 
-### Choix de l'outil
+#### Choix de l'outil
 
 - La proposition est de créer votre modèle de page dans Framer (qui est assez similaire à Figma). 
 - Si vous trouvez trop compliqué d'utiliser un nouveau logiciel, vous pouvez les faire dans Figma.
 
-### Largeur de page dans Framer
+#### Largeur de page dans Framer
 
 Utiliser **1440px** pour l'écran large. C'est plus grand que le par defaut de framer qui est 1200px. La raison: les sites seront montrés aux portes ouvertes sur écran iMac.
 
 Utiliser **390** (valeur par défaut de Framer) pour l'écran mobile.
 
-### Fontes typographiques
+#### Fontes typographiques
 
 Comme pour les portfolios, il faut se restreindre aux typos *Open-Source*, car l'objectif est de mettre le site en ligne. La plupart des fontes de la typothèque ne permettent pas cela.
 
