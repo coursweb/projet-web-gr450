@@ -73,7 +73,7 @@ Technique pictogrammes:
 
 ## Infos techniques
 
-Précisions pour la réalisation des modèles de page le 29 octobre. 
+Précisions pour la réalisation des modèles de page, le 29 octobre. 
 
 #### Choix de l'outil
 
@@ -82,7 +82,7 @@ Précisions pour la réalisation des modèles de page le 29 octobre.
 
 #### Largeur de page dans Framer
 
-Utiliser **1440px** pour l'écran large. C'est plus grand que le par defaut de framer qui est 1200px. La raison: les sites seront montrés aux portes ouvertes sur écran iMac.
+Utiliser **1440px** pour l'écran ordinateur/desktop. C'est plus grand que le par defaut de framer qui est 1200px. La raison: les sites seront montrés aux portes ouvertes sur écran iMac.
 
 Utiliser **390** (valeur par défaut de Framer) pour l'écran mobile.
 
